@@ -4,4 +4,8 @@ public class CountryDAL
 	private String name;
 	private double fee;
 		
+	public int getID()
+	{
+		return id;
+	}
 }
