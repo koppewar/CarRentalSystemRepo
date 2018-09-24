@@ -4,4 +4,10 @@ public class CountryDAL
 	private String name;
 	private double fee;
 	private String address;	
+	
+	//dsfsdffsfsdfsd
+	public int setId(int id)
+	{
+		this.id=id;
+	}	
 }
