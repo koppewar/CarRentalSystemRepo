@@ -8,6 +8,8 @@ public class CountryDAL
 		return id;
 	}
 
+	private String address;	
+	
 	//dsfsdffsfsdfsd
 	public int setId(int id)
 	{
